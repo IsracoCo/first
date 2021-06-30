@@ -1,2 +1,2 @@
-that is my first git file!!
-i am writing some stuff in here
+that will be a soduko game and the first 
+project ever that i work on with git 
